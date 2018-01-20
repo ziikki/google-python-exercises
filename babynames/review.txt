@@ -1,0 +1,10 @@
+Things I learned along the way:
+1. re
+
+2. os
+
+
+Things I learned comparing my code with solution(It is also commented in .py file):
+1.
+
+2.
